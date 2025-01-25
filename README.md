@@ -1,3 +1,9 @@
-# about my first project on github
-test
-test2
+# About my first project on github
+## Purpose
+*** 
+## Principle
+***
+## Code
+***
+## Result
+***
